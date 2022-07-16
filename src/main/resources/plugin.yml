@@ -1,0 +1,4 @@
+name: HavaASeat
+version: 0.0.1
+main: bluescreen9.minecraft.bukkit.haveaseat.Main
+api-version: 1.19
